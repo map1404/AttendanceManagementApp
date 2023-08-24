@@ -1,0 +1,47 @@
+[
+
+    {
+        "id": 5001,
+        "firstName": "Dinesh",
+        "lastName": "kumar",
+        "emailId": "Dinesh.Kumar@gmail.com",
+        "classId": "X A"
+    },
+    {
+        "id": 5001,
+        "firstName": "Dinesh",
+        "lastName": "kumar",
+        "emailId": "Dinesh.Kumar@gmail.com",
+        "classId": "X C"
+    },
+    {
+        "id": 5001,
+        "firstName": "Dinesh",
+        "lastName": "kumar",
+        "emailId": "Dinesh.Kumar@gmail.com",
+        "classId": "X F"
+    },
+    {
+        "id": 5001,
+        "firstName": "Dinesh",
+        "lastName": "kumar",
+        "emailId": "Dinesh.Kumar@gmail.com",
+        "classId": "X G"
+    },
+    {
+        "id": 5002,
+        "firstName": "Akanksha",
+        "lastName": "Chowdary",
+        "emailId": "akki1995@gmail.com",
+        "classId": "X B"
+    },
+
+
+    {
+        "id": 5003,
+        "firstName": "Meghana",
+        "lastName": "goggineni",
+        "emailId": "meghu2001@gmail.com",
+        "classId": "V B"
+    }
+]
